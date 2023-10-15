@@ -43,6 +43,7 @@
 #include <sys/proc.h>
 #include <sys/rman.h>
 #include <sys/timeet.h>
+#include <sys/sysctl.h>
 
 #include <isa/rtc.h>
 #ifdef DEV_ISA
